@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+  <student>
+    <name>Student 1</name>    
+    <year>1998</year>
+    <school>PTIT</school>
+  </student>
+  <student>
+    <name>Student 2</name>
+    <year>1999</year>
+    <school>UET</school>
+  </student>
+  <student>
+    <name>Student 3</name>
+    <year>2000</year>
+    <school>BK</school>
+  </student>
+  
+</class>
